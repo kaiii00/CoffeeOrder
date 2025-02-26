@@ -1,0 +1,7 @@
+
+--- Coffee Order Receipt ---
+2x Mocha        - 160.00 PHP
+
+--- Order Summary ---
+Total Price: 160.00 PHP
+Thank you for your order!
